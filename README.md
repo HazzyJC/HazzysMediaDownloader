@@ -1,5 +1,5 @@
-# HazzysMediaDownloader
-Hazzy's Media Downloader provides a quick and easy way to upload videos you find online to discord.
+# Hazzy's Media Downloader
+Hazzy's Media Downloader provides a quick and easy way to upload videos you find online to [discord](discord.com).
 
 ## Synopsis
 Find a funny youtube video? Something you want to share with your friends from twitter? A hillarious meme you find on tiktok?
