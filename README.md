@@ -20,10 +20,11 @@ Use is relatively simple. As of right now, you do need to download the source co
 1. Download the source code and open the .sln file with any IDE you so choose
 2. Find the part where I register the slash commands in the Bot.cs file
 3. Replace the guildId's I add with the guildID's of whatever server you want, or register all (NOT RECOMMENDED, WILL TAKE HOURS)
-4. Build the solution, and find the build location (bin > Debug > net7.0)
-5. Add a file called "config.JSON"
-6. Copy the json string below into it (Replacing "(YOUR TOKEN)" with your bot's token)
-7. Run the .exe!
+4. Replace the file path that I reference in the File Deletion/File creation sections of the SlashCommands.cs file
+5. Build the solution, and find the build location (bin > Debug > net7.0)
+6. Add a file called "config.JSON"
+7. Copy the json string below into it (Replacing "(YOUR TOKEN)" with your bot's token)
+8. Run the .exe!
 
 {
   "token": "(YOUR TOKEN)",
