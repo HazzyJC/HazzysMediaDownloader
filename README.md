@@ -1,12 +1,12 @@
 # Hazzy's Media Downloader
 Hazzy's Media Downloader provides a quick and easy way to upload videos you find online to [discord](discord.com).
 
+TOP.GG LINK: https://top.gg/bot/1093352359989612627
+
 ## Synopsis
 Find a funny youtube video? Something you want to share with your friends from twitter? A hillarious meme you find on tiktok?
 Instead of going to "downloadyoutubemp3totallylegitnovirus.com", use this free, reliable bot. You can skip the process of downloading, uploading, and storing.
 Just use the /download command to get a fresh video, straight on discord for you to share.
-
-This would be my sales pitch if I were to actually host this bot, but im broke as hell and dont want to deal with hosting a c# discord bot online (yuck)
 
 ## How it works
 This bot takes advantage of a free service called [Cobalt](https://co.wukko.me)
